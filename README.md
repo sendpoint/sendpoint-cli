@@ -1,0 +1,2 @@
+# sendpoint-cli
+📬 Sendpoint CLI
